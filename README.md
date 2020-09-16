@@ -8,10 +8,12 @@
 # study_VTU_with_Vue3.0
 learn VTU(Vue-test-unit) in Vue 3.0
 
+```
 git clone https://github.com/djytwy/study_VTU_with_Vue3.0.git
 cd study_VTU_with_Vue3
 npm i
 jest src/components/helloWorld
+```
 
 PS: Unexplainable errors occur when using yarn
 
